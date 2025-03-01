@@ -1,4 +1,4 @@
-package br.com.msp.Carrinho_de_compras_Spring;
+package br.com.msp.carrinho_de_compras_spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
